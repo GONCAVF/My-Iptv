@@ -29,11 +29,11 @@ https://cors.pubba.uk/m3u8-proxy?url=https%3A%2F%2Fwindnew.iosplayer.ru%2Fwind%2
 https://cors.pubba.uk/m3u8-proxy?url=https%3A%2F%2Fdokko1new.iosplayer.ru%2Fdokko1%2Fpremium130%2Fmono.m3u8%3Ftoken%3Dnone&headers=%7B%22referer%22%3A%22https%3A%2F%2Fcookiewebplay.xyz%2F%22%2C%22origin%22%3A%22https%3A%2F%2Fcookiewebplay.xyz%22%2C%22user-agent%22%3A%22Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F129.0.0.0%20Safari%2F537.36%22%7D
 #EXTINF:-1 group-title="Sport Tv (2)" tvg-logo="http://24bee.xyz:8080/images/74366623d98cb5cacd72dfdab671cd48.png", PT SPORT TV 1 FHD
 http://tvmate.icu:8080/vNay0H/219352/167742?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="Sport Tv (2)", SPORT TV 2 HD tvg-logo="http://24bee.xyz:8080/images/9182edb12801c3257df5daf80121d69d.png"
+#EXTINF:-1 group-title="Sport Tv (2)" tvg-logo="http://24bee.xyz:8080/images/9182edb12801c3257df5daf80121d69d.png", SPORT TV 2 HD
 http://cord-cutter.net:8080/zcJ8BG/214917/167743?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="Sport Tv (2)", PT SPORT TV 3 HD tvg-logo="http://24bee.xyz:8080/images/c1ffeac92e8a372315005080db03aa54.png"
+#EXTINF:-1 group-title="Sport Tv (2)" tvg-logo="http://24bee.xyz:8080/images/c1ffeac92e8a372315005080db03aa54.png", PT SPORT TV 3 HD
 http://cord-cutter.net:8080/Danaunk1/ksGH6Tg3pY/167744?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="Sport Tv (2)", PT SPORT TV 4 FHD tvg-logo="http://24bee.xyz:8080/images/9222562b2a123cad64b15ac82b77db52.png"
+#EXTINF:-1 group-title="Sport Tv (2)" tvg-logo="http://24bee.xyz:8080/images/9222562b2a123cad64b15ac82b77db52.png", PT SPORT TV 4 FHD
 http://cord-cutter.net:8080/Danaunk1/ksGH6Tg3pY/167745?checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="Eleven Sports (2)", PT Eleven Sports 1 FHD
 http://cord-cutter.net:8080/X5xRz0/944877/35264?checkedby:alliptvlinks.com
@@ -65,15 +65,15 @@ http://wanicelife.com:8880/D12m2940/95455459/3209
 http://wanicelife.com:8880/D12m2940/95455459/3201
 #EXTINF:-1 tvg-id="sport.tv1.pt" tvg-name="Sport TV 1 HD" tvg-logo="http://24bee.xyz:8080/images/74366623d98cb5cacd72dfdab671cd48.png" group-title="Wanicelife",Sport TV 1 HD
 http://wanicelife.com:8880/D12m2940/95455459/3192
-#EXTINF:-1 tvg-id="sport.tv2.pt" tvg-name="Sport TV 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT059SportTV2.png" group-title="Wanicelife",Sport TV 2 HD
+#EXTINF:-1 tvg-id="sport.tv2.pt" tvg-name="Sport TV 2 HD" tvg-logo="http://24bee.xyz:8080/images/5991ca9007ff1ca7cb4ea03dcab62f28.png" group-title="Wanicelife",Sport TV 2 HD
 http://wanicelife.com:8880/D12m2940/95455459/3191
-#EXTINF:-1 tvg-id="sport.tv3.pt" tvg-name="Sport TV 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT060SportTV3.png" group-title="Wanicelife",Sport TV 3 HD
+#EXTINF:-1 tvg-id="sport.tv3.pt" tvg-name="Sport TV 3 HD" tvg-logo="http://24bee.xyz:8080/images/a11b1a0caf420d915089b718b645b7b0.png" group-title="Wanicelife",Sport TV 3 HD
 http://wanicelife.com:8880/D12m2940/95455459/3190
-#EXTINF:-1 tvg-id="sport.tv4.pt" tvg-name="Sport TV 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT061SportTV4.png" group-title="Wanicelife",Sport TV 4 HD
+#EXTINF:-1 tvg-id="sport.tv4.pt" tvg-name="Sport TV 4 HD" tvg-logo="http://24bee.xyz:8080/images/3422f082168617a53e257327ecc2cd02.png" group-title="Wanicelife",Sport TV 4 HD
 http://wanicelife.com:8880/D12m2940/95455459/3189
-#EXTINF:-1 tvg-id="sport.tv5.pt" tvg-name="PT062:Sport TV 5 HD" tvg-logo="http://24bee.xyz:8080/images/d49981b7f57c5e2fbca47600bc1e444c.png" group-title="Wanicelife",Sport TV 5 HD
+#EXTINF:-1 tvg-id="sport.tv5.pt" tvg-name="PT062:Sport TV 5 HD" tvg-logo="http://24bee.xyz:8080/images/82ad0bb17e8fa392cfd94ae0fadc1c23.png" group-title="Wanicelife",Sport TV 5 HD
 http://wanicelife.com:8880/D12m2940/95455459/3188
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="PT148:SPORT TV 6 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT148CHELSEATV.png" group-title="Wanicelife",SPORT TV 6 HD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="PT148:SPORT TV 6 HD" tvg-logo="http://24bee.xyz:8080/images/ea995a859beda2971dbf311230363773.png" group-title="Wanicelife",SPORT TV 6 HD
 http://wanicelife.com:8880/D12m2940/95455459/29342
 #EXTINF:-1 tvg-id="sport.plus.pt" tvg-name="SPORT TV+" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT063SportTV.png" group-title="Wanicelife",SPORT TV+
 http://wanicelife.com:8880/D12m2940/95455459/3187
